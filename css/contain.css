@@ -1,0 +1,55 @@
+.contant {
+  width: 90% !important;
+  margin: auto;
+  width: 100%;
+  background-color: #323544;
+  color: #fff;
+}
+.breadcrumb {
+  padding: 20px;
+  font-size: 14px;
+}
+.breadcrumb a {
+  color: #bfc1c8;
+  transition: all 0.3s;
+}
+
+.parent {
+  width: 90%;
+  margin: auto;
+}
+.breadcrumb a:hover {
+  text-decoration: underline !important;
+}
+
+.map {
+  overflow: hidden;
+  padding: 20px;
+  border-radius: 20px;
+  background-color: #323544;
+  height: 350px;
+}
+.contact {
+  width: 90% !important;
+  margin-inline: auto;
+  margin-block: 50px;
+}
+.empity {
+  height: 220px;
+}
+.inner-col input,
+textarea {
+  padding: 15px;
+  width: 100%;
+  color: #fff;
+  background-color: transparent;
+  border: 3px #323544 solid;
+}
+button {
+  padding: 10px 20px;
+  background-color: #009ad8;
+  color: #fff;
+  border: none;
+  font-size: 14px;
+  cursor: pointer;
+}
